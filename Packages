@@ -53,16 +53,16 @@ Name: Ermete
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.dvntm.showmytouches
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
-Installed-Size: 448
+Installed-Size: 456
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.dvntm.showmytouches_1.0_iphoneos-arm64.deb
-Size: 49592
-MD5sum: 1c9b776c78c83c75988922769f16d8f8
-SHA1: c886424510f9d111856d22b9595a4d69b3903fc9
-SHA256: 033463ab993a7c85faf99d9a1d958a5a7bd75c52fb5a183649c15089884c68d8
+Filename: debs/com.dvntm.showmytouches_1.1_iphoneos-arm64.deb
+Size: 52102
+MD5sum: 09897321d3732f4c4c2d66df3c4242a8
+SHA1: 97b810ae8098c1054361a21e8ee33521932d2173
+SHA256: 41bde783e16200f3867f3bf727d5f516427117f0b4666e1e59e2440ef0095b41
 Section: Tweaks
 Description: Displays your touch interactions!
 Author: dvntm
