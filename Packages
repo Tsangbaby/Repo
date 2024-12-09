@@ -128,6 +128,23 @@ Depiction: https://michaelmelita1.github.io/depictions/?p=com.ikilledappl3.autof
 Name: AutoFolderClose
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.ikilledappl3.autofolderclose/info.json
 
+Package: com.lecard.wuyu
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/com.lecard.wuyu_0.1_iphoneos-arm64.deb
+Size: 408672
+MD5sum: d7a8c282807938d0516f6eae0444f3ed
+SHA1: 9fc13b14b5a42c56ac8a75b6d2c82a6ca5e73758
+SHA256: d0569d65b4be02f1be3300870fbd3409dfa9bb75c5223adf911ac2a73d9b511e
+Section: Tweaks
+Description: Jailbrea!
+Author: Crassna
+Icon: https://vv1.cfcdn.icu/7914929f42ace6af13a190140f30ebe0.png
+Name: aiBreak
+
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.2
 Architecture: iphoneos-arm64
