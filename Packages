@@ -14,16 +14,16 @@ Author: gblw
 Name: 解除时间限制
 
 Package: com.applecard.tsangbaby
-Version: 0.1
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 1948
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: debs/com.applecard.tsangbaby_0.1_iphoneos-arm64.deb
+Filename: debs/com.applecard.tsangbaby_1.0_iphoneos-arm64.deb
 Size: 408684
-MD5sum: f6d22d9e0639861a5fc225ba2e623765
-SHA1: 5f566752c3aef109f15b8f7bee209cb8206a97ce
-SHA256: 2ca7efeb2ff7e2c99b138603a77ee209ac30a9c48ce5408dd3d75bdbea1ffe3a
+MD5sum: 2d38ebd4edaa70ed4d31e6da529eadfe
+SHA1: 938080da97c47017157d4fbc97295d18de8d53ae
+SHA256: 0eece7d30e055ca4157c468711e829adcd2ef7704976436f10dba92b081677c8
 Section: Tweaks
 Description: Jailbrea! AppLecard End!!
 Author: Crassna
