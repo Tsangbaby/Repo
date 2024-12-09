@@ -13,23 +13,6 @@ Description: 微信净化，抖音净化解除时间限制
 Author: gblw
 Name: 解除时间限制
 
-Package: com.applecardpro.tsangbaby
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 1948
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: debs/com.applecardpro.tsangbaby_1.0_iphoneos-arm64.deb
-Size: 408692
-MD5sum: aabbaed584360021824f3a03a9d7a69c
-SHA1: 9cd62d17096625dacecba13d08b01e33740c5d04
-SHA256: 3ec43db1e3e1dc927126347d4dccdda6cc99a65e4ab1b1cf84d3b8a3d7579f30
-Section: Tweaks
-Description: Jailbrea! AppLecard The End!!
-Author: Crassna
-Icon: https://i.cdncf.xyz/7ff0acff4e516c8876c4b269cffcc550.png
-Name: AppLecard Pro
-
 Package: com.ash.fixrepairsystempower
 Version: 0.0.1
 Architecture: iphoneos-arm64
