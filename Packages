@@ -13,6 +13,23 @@ Description: 微信净化，抖音净化解除时间限制
 Author: gblw
 Name: 解除时间限制
 
+Package: com.applecard.tsangbaby
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/com.applecard.tsangbaby_0.1_iphoneos-arm64.deb
+Size: 408684
+MD5sum: f6d22d9e0639861a5fc225ba2e623765
+SHA1: 5f566752c3aef109f15b8f7bee209cb8206a97ce
+SHA256: 2ca7efeb2ff7e2c99b138603a77ee209ac30a9c48ce5408dd3d75bdbea1ffe3a
+Section: Tweaks
+Description: Jailbrea! AppLecard End!!
+Author: Crassna
+Icon: https://i.cdncf.xyz/7ff0acff4e516c8876c4b269cffcc550.png
+Name: AppLecard
+
 Package: com.ash.fixrepairsystempower
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -127,23 +144,6 @@ Author: iKilledAppl3
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.ikilledappl3.autofolderclose
 Name: AutoFolderClose
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.ikilledappl3.autofolderclose/info.json
-
-Package: com.lecard.wuyu
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 1948
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: debs/com.lecard.wuyu_0.1_iphoneos-arm64.deb
-Size: 408672
-MD5sum: d7a8c282807938d0516f6eae0444f3ed
-SHA1: 9fc13b14b5a42c56ac8a75b6d2c82a6ca5e73758
-SHA256: d0569d65b4be02f1be3300870fbd3409dfa9bb75c5223adf911ac2a73d9b511e
-Section: Tweaks
-Description: Jailbrea!
-Author: Crassna
-Icon: https://vv1.cfcdn.icu/7914929f42ace6af13a190140f30ebe0.png
-Name: aiBreak
 
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.2
