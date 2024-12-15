@@ -29,6 +29,25 @@ Author: ash
 Name: Fix Repair System Power
 Sponsor: ash
 
+Package: com.b4db1r3.ocd
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3
+Installed-Size: 808
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.noisyflake.cozybadges
+Filename: debs/图标完美版com.b4db1r3.ocd_4.0_iphoneos-arm64.deb
+Size: 120468
+MD5sum: 218ee269b06d629176660167a3dc4664
+SHA1: 0c328caf4f9332c932323fe9721e64483eab6a64
+SHA256: 7f812f178154edffddd1a67a0b27b65b100423ee3e72fdaa4b4a427fe5c6e04e
+Section: Tweaks (SpringBoard)
+Description: OCD - Obssesive Color Disorder.
+Author: b4db1r3
+Depiction: https://b4db1r3.github.io/d3vr3p0/depictions/web/?p=com.b4db1r3.ocd_ROOTLESS
+Name: OCD (iOS 15-17 | Roothide & Dopamine)
+Sileodepiction: https://b4db1r3.github.io/d3vr3p0/depictions/native/com.b4db1r3.ocd_ROOTLESS/depiction.json
+
 Package: com.cydiageek.ermete
 Version: 1.0.5
 Architecture: iphoneos-arm64
